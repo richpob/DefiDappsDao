@@ -43,6 +43,8 @@ https://sepolia.etherscan.io/tx/0xeade6f9d5876e3621cedeff2003d44cee93e90df0f575c
 
 Generación de un archivo con extensión .sol con el contenido del smart contract en Remix IDE. El código del smart contract puedes encontrarlo aquí: https://github.com/CesRC/auction-example-solidity
 
+
+
 ## 5 Compilar y desplegar el Smart Contract en Remix IDE
 
 Compilación a bytecode y despliegue del código del smart contract en la red de Ethereum para poder interactuar con él.

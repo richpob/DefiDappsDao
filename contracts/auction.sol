@@ -69,7 +69,7 @@ contract Auction {
                 );
             } else {
                 // Se emite un evento
-                emit Status("Puja no válida, no supera el precio mínimo");
+                emit Status("Puja no valida, no supera el precio minimo");
                 revert();
             }
         }
