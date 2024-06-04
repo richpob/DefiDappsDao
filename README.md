@@ -116,3 +116,5 @@ Ejecuta metodo Bid:
 ![image](https://github.com/richpob/DefiDappsDao/assets/133718913/260d5d93-63cd-4ce7-9953-cf70823fb467)
 
 
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/1521aceb-7763-4deb-b51b-1f7dee1eb43d)
+
