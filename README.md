@@ -43,12 +43,76 @@ https://sepolia.etherscan.io/tx/0xeade6f9d5876e3621cedeff2003d44cee93e90df0f575c
 
 Generación de un archivo con extensión .sol con el contenido del smart contract en Remix IDE. El código del smart contract puedes encontrarlo aquí: https://github.com/CesRC/auction-example-solidity
 
+Fichero Auction.sol
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/b3582dc8-3b29-45de-973a-fcdf89213b42)
+
+
+Se compila con version 0.0.6.9 menor que la que se exige
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/2349b978-d1e8-446f-bc01-3431d2477390)
+
+
 
 
 ## 5 Compilar y desplegar el Smart Contract en Remix IDE
 
 Compilación a bytecode y despliegue del código del smart contract en la red de Ethereum para poder interactuar con él.
 
+Despliegue en TestNet Sepolia usando Metamask
+
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/a1ee962c-85e6-4fd0-875a-b6f919e1584c)
+
+Deploy:
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/5a5a8871-d34a-4142-88fd-937469d54b4c)
+
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/abe1dd29-19f6-4ec5-9426-f97a2d222df6)
+
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/4dac4faa-9533-4fdf-bdaa-51c1fdd2ab32)
+
+TX en xplorer :
+https://sepolia.etherscan.io/tx/0x5a975c32699cb931d39bda34960ceacc4a24f60ac655bd21488f6c2502a785b2
+
+URL Contrato: 
+https://sepolia.etherscan.io/address/0x33ee37bfe442e0c891a0a951ca7e439e2c68aebf
+
+Verificación y Publicar contrato:
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/d82be0d3-3130-44b1-8619-ce7ba508ac61)
+
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/fc15dbd2-bfe0-4153-841d-ad8e804f394d)
+
+Resultado verificación y publicación
+
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/7348cb64-d076-4c82-b26f-7ecb5ff4a03f)
+
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/871efb62-d65f-46c9-a300-11f13872deaf)
+
+Metodos de consultas READ
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/5c87ed59-59e0-404b-a0d4-8d8adf6ed7ef)
+
+
+Metodos de Escritura : Write
+
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/4553808f-4ace-471f-a696-a640cd18dd09)
+
+
+
+
+
 ## 6 Envío de transacciones al Smart Contract con Remix IDE
 
 Para utilizar el smart contract hay que generar transacciones, en este caso realizarás con tu cuenta una transacción de puja a través del método bid.
+
+Transacciones del Contrato creado:
+
+https://sepolia.etherscan.io/address/0x33ee37bfe442e0c891a0a951ca7e439e2c68aebf
+
+Ejecuta metodo Bid:
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/5b280809-1dd8-4e6e-b9cf-2437ef4fb78c)
+
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/2eb080e1-c044-43f8-9884-41ea0912bcf6)
+
+
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/9145030c-fdde-4fa5-aaf7-837356a5c9e5)
+
+![image](https://github.com/richpob/DefiDappsDao/assets/133718913/260d5d93-63cd-4ce7-9953-cf70823fb467)
+
+
